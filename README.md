@@ -1,7 +1,7 @@
 ### Olá 👋! Eu sou o António Sebastião Pedro.
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://antoniopedro.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B3nio-sebasti%C3%A3o-pedro-37924922b/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antoniosebastiaopedro19/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/antoniosebastiaopedro19)
 
-![António Sebastião Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioSebastiaoPedro&show_icons=true&theme=transparent&token=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)
+![António Sebastião Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioSebastiaoPedro&show_icons=true&theme=transparent&token=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)
 
 ### Tecnologias mais usadas
 <div style="display: inline-block">
